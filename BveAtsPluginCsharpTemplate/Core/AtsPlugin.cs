@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace AtsPlugin
+namespace AtsPlugin.Core
 {
     /// <summary>
     /// Basics of ATS plug-in.
