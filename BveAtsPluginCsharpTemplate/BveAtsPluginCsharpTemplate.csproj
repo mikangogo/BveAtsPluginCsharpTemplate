@@ -7,8 +7,8 @@
     <ProjectGuid>{2AABD893-9059-4558-95CE-26EC2F921D6A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BveAtsPluginCsharpTemplate</RootNamespace>
-    <AssemblyName>BveAtsPluginCsharpTemplate</AssemblyName>
+    <RootNamespace>AtsPlugin</RootNamespace>
+    <AssemblyName>AtsPlugin</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
