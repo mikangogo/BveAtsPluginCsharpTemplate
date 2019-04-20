@@ -7,7 +7,6 @@ The template code of AtsPlug-in implemented by C# for Bve Trainsim and other com
 
 ## How to build
 1. Install [DllExport](https://www.nuget.org/packages/DllExport/) according to the instrcutions.
-1. When configuring the DllExport, sets *Namespace for DllImport* to `AtsPlugin`.
 1. Build the project.
 
 ## Unlicense (Public Domain)
