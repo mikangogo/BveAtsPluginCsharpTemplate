@@ -6,7 +6,7 @@ namespace AtsPlugin.Core
     /// <summary>
     /// Basics of ATS plug-in.
     /// </summary>
-    public static class AtsPlugin
+    public static class AtsMain
     {
         /// <summary>
         /// ATS Plug-in Version
